@@ -12,3 +12,6 @@ Example codes for DistilKoBERT in tfhub.dev
 * nsmc
   * training code: [distilkobert_nsmc_tpu.ipynb](./distilkobert_nsmc_tpu.ipynb)
   * dataset: <https://jeongukjae.github.io/tfds-korean/datasets/nsmc.html>
+* kornli
+  * training code: [distilkobert_kornli_tpu.ipynb](./distilkobert_kornli_tpu.ipynb)
+  * dataset: <https://jeongukjae.github.io/tfds-korean/datasets/kornli.html>

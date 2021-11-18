@@ -9,4 +9,6 @@ Example codes for DistilKoBERT in tfhub.dev
 
 ## Example training code
 
-* nsmc: [distilkobert_nsmc_tpu.ipynb](./distilkobert_nsmc_tpu.ipynb)
+* nsmc
+  * training code: [distilkobert_nsmc_tpu.ipynb](./distilkobert_nsmc_tpu.ipynb)
+  * dataset: <https://jeongukjae.github.io/tfds-korean/datasets/nsmc.html>
